@@ -6,7 +6,7 @@
 
 ### Languages and tools:
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
         <img src="https://web-creator.ru/uploads/Page/19/python.svg" width="48" height="48" alt="Python" />

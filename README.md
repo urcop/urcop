@@ -1,10 +1,18 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=AF27F7&lines=Welcome+to+my+Git">
+    <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Welcome+to+my++super+Git+account">
   </a>
 </h1>
 
-### Languages and tools:
+- 👼🏻 &nbsp; Have love coding since school
+- 🤬 &nbsp; Won't rest until I complete the task
+- 😩 &nbsp; Always ready to participate in new projects
+- 💪🏻 &nbsp; Python
+- 💩 &nbsp; Love myself
+- 🤕 &nbsp; Funny?
+
+
+<h1 align="center"><b>Languages and tools</b></h1>
 
 <table align="center">
   <tr>

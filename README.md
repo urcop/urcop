@@ -7,7 +7,7 @@
 - 😩 &nbsp; Always ready to participate in new projects
 - 💪🏻 &nbsp; Python
 - 💩 &nbsp; Love myself
-- 🤕 &nbsp; Funny?
+- 🤕 &nbsp; questions?
 
 
 <h1 align="center"><b>Languages and tools</b></h1>
